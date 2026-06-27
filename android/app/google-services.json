@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "434848050715",
+    "firebase_url": "https://smart-farm-d7800-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-farm-d7800",
+    "storage_bucket": "smart-farm-d7800.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434848050715:android:916f016740e64de26f52be",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALq_1_FCMYpWiCuvVc5cjHFaSc0_pXMOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

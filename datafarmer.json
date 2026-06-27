@@ -1,0 +1,13 @@
+{
+  "smartfarm": {
+    "soil": 75,
+    "water": 80,
+    "status": "BANJIR",
+    "hama": "AMAN",
+    "mode": "MONITORING",
+    "online": true,
+    "pompaMasuk": false,
+    "pompaKeluar": false,
+    "buzzer": true
+  }
+}
